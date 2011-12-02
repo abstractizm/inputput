@@ -1,7 +1,7 @@
 // Author: Hakan Yilmaz
 // E-Mail: abstractizm@googlemail.com
 
-jQuery(document).ready(function($) {
+$(document).ready(function() {
 	    
     // Input Felder
     $("input").each(function (index, domEle) {

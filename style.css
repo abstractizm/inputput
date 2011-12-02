@@ -1,0 +1,13 @@
+body {
+	background: #333;
+	color: #ccc;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+input {
+	width:300px;
+	height:25px;
+	background: #999;
+	color: #fff;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
