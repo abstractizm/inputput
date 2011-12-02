@@ -1,9 +1,26 @@
-This is a small jQuery Snippet for easy handling default values in inputfields and textareas.
+########################################
+### This is a small jQuery snippet   ###
+### for easy handling default values ###
+### in inputfields and textareas.    ###
+########################################
 
-Implement:
+
+### Implement:								  			
+###														
+### Simply past that line into your head of your site	
+### edit the path to your js file						
+
 <script type="text/javascript" src="yourJavaScriptFolder/inputput.js"></script>
 
-How to use in Html:
+
+
+### How to use in Html:						  			
+###														
+### Simply past that line into your head of your site	
+### edit the path to your js file						
+
 <input type="text" size="20" value="This is the Default Value" />
 
-Thats all. By clicking on the input field, the default value will be deleted. If the User will not enter any new input, the dafault value will be set in again.
+
+### Demo
+http://www.abstractizm.de/inputput/
